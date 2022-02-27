@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good newes out of Cheshire. Being a certaine relation of the late passages of that great malignant, James Earle of Darby; how he raised forces against the Parliament. With which drawing towards the Kings army near Brumicham in Warwicke-shire, he was set upon and defeated by the trained bands of that county, losing in the fight six hundred of his cavaliers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85364</idno>
+            <idno type="STC">Wing G1074</idno>
+            <idno type="STC">Thomason E127_44</idno>
+            <idno type="STC">ESTC R212762</idno>
+            <idno type="EEBO-CITATION">99871338</idno>
+            <idno type="PROQUEST">99871338</idno>
+            <idno type="VID">156226</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85364)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156226)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E127[44])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good newes out of Cheshire. Being a certaine relation of the late passages of that great malignant, James Earle of Darby; how he raised forces against the Parliament. With which drawing towards the Kings army near Brumicham in Warwicke-shire, he was set upon and defeated by the trained bands of that county, losing in the fight six hundred of his cavaliers.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Davis,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nouemb 23 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Derby, James Stanley, --  Earl of, 1607-1651 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156226:1" rendition="simple:additions"/>
+            <p>GOOD NEWES <hi>OVT OF</hi> CHESHIRE.</p>
+            <p>Being a certaine Relation of the late Paſſages of that great Malignant, <hi>JAMES Earle</hi> of DARBY; How he raiſed Forces againſt the PARLIAMENT.</p>
+            <p>With which drawing towards the KINGS Army near <hi>Brumicham</hi> in <hi>WARWICKE-SHIRE,</hi> He was ſet upon and defeated by the Trained Bands of that County, loſing in the fight ſix hundred of his CAVALIERS.</p>
+            <p>
+               <add>novemb .23.</add> LONDON, Printed for <hi>Iohn Davis.</hi>
+               <add>1642</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156226:2"/>
+            <pb n="3" facs="tcp:156226:2"/>
+            <head>
+               <figure>
+                  <q xml:lang="lat">DOCTRINA PARIT VIRTVTEM</q>
+                  <figDesc>device, an open book with a sword, scepter, and surrounding motto</figDesc>
+               </figure>
+            </head>
+            <head>Good Newes out of <hi>Cheſhire.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Mongſt all our factious Engliſh Nobi<g ref="char:EOLhyphen"/>lity none has declared himſelfe of a more perverſe malignant diſpoſition to the proceedings of the Honourable the High Court of Parliament, then <hi>Iames</hi> Lord <hi>Strange,</hi> by the deceaſe of his father now Earle of Derby, decla<g ref="char:EOLhyphen"/>ring himſelfe utterly againſt their juſt endeavours for the Common-wealth, not only by ſtriving to put the Commiſſion of Array in execution in the Counties of Cheſter and Lancaſter; but alſo by beleaguring the good Towne of Mancheſter, becauſe they refuſed to be aſſiſtant to his miſchievous purpoſes, and continued reſolute to defend their Liberties, and obey the Ordinances of Parliament, but being ſhamefully repulſed thence with the loſſe of ſome hundred of his Cavaliers. He has often attempted the loy<g ref="char:EOLhyphen"/>alty of thoſe Mancheſtrians, which he could no wayes vi<g ref="char:EOLhyphen"/>olate, and ſo has ever ſince laboured all the Gentry and Yeomanry in thoſe Counties to his part, which was no hard matter for him to doe, by reaſon of his power in thoſe parts, moſt of them being his Tenants; Beſides, on the other ſide of Dee he has large Revenues in Darby-ſhire and Denbigh<g ref="char:EOLhyphen"/>ſhire in North-Wales, where he likewiſe uſed all means poſ<g ref="char:EOLhyphen"/>ſible
+<pb n="4" facs="tcp:156226:3"/>by his Agents to leavy men, taking up money of all the able men of his acquaintance to pay his ſouldiers, which <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is cre<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>y reported of Welſh men and others compleated the number of it leaſt ſeven thouſand, of which five thouſand five hundred were Foot, and the reſt Horſe, with which For<g ref="char:EOLhyphen"/>ces he would faine have had another fling at Mancheſter, the diſgrace he received before in that Towne ſticking in his ſtomacke, and in the hearts of his Cavaliers; but upon matu<g ref="char:EOLhyphen"/>rer adviſe and wiſer deliberations, being certified of the pre<g ref="char:EOLhyphen"/>parations made in that Towne for their defence, he wav'd his revenge and thought it fitter to paſſe, if it were poſſible, into theſe Southerne parts, and unite his Army to the body of His Majeſties Army, Fortune ſeeming to ſmile upon his in<g ref="char:EOLhyphen"/>tentions, being that His Excellence the Earle of Eſſex was retired from thoſe parts with his Forces towards the City of London, ſo that he verily imagined none would impeach his paſſage; to the City of Cheſter therefore about the midſt of this preſent Moneth he drew forth all his Regiments, and billiting them thereabouts ſome two dayes, he marched from thence towards Shrewsbury, and ſo by way of Newport through the County of Salop towards Warwicke-ſhire, plun<g ref="char:EOLhyphen"/>dring and deſtroying the Countries, his ſouldiers robbing and ſpoyling all the Inhabitants thereabouts, as well Malignants of their owne faction as thoſe that were true ſonnes to their Mother the Common-wealth.</p>
+            <p>Upon Thurſday laſt entring into Warwicke-ſhire, where the well affected Trained Bands of that County, with ſome of the Parliament Forces left there to ſecure the Countrey, prepared themſelves to give him a welcome into thoſe parts, and to give him battell, rather then to permit their lands and poſſeſſions, their wives and children to become a prey to thoſe devouring Harpies.</p>
+            <p>On Fryday Morning therefore in a well compoſed Body they advanced to the edge of the County as far as Brami<g ref="char:EOLhyphen"/>cham, being ſome foure thouſand men, foure hundred of which were Horſe.</p>
+            <pb n="5" facs="tcp:156226:3"/>
+            <p> The Earle being then quartered ſome three miles off, un<g ref="char:EOLhyphen"/>derſtanding of the approach of theſe Regiments, by the ad<g ref="char:EOLhyphen"/>vice of his Cavaliers thoſe pernitious Councellours march'd with all ſpeed toward them, who were nothing affraid of his numbers: about twelve of clocke they were in view one of another in the broad high-way about one mile on this ſide <hi>Brumicham;</hi> our men having two peeces of Cannon they had from <hi>Warwicke</hi> Caſtle, planted them privately be<g ref="char:EOLhyphen"/>hind a thicke quick-ſet hedge, placing ſome two hundred Muſquetiers in ambuſh, that lay cloſe without noyſe by the ſaid peeces; the Earle had plac'd his horſemen in the front of his forces, being moſt part Cavaliers, who vow'd with all deſperateneſſe to revenge the diſgrace they had received at <hi>Mancheſter,</hi> on thoſe Round-heads, and ſo gallopping in apace, they were ſtaid by our horſe-men, who demeaned themſelves very reſolutely, charging into their troops, and with their Carabines and Petronels, tumbling divers of them from their horſes never to riſe againe, till the Earle him<g ref="char:EOLhyphen"/>ſelfe with his owne troope comming in, they did ſo overlay our horſe-men with their numbers, they had much adoe to keepe their ranks, ſome of them falling their Coun<g ref="char:EOLhyphen"/>tries ſacrifice; but our foot not unmindfull to performe their duties, ſent a luſty volley of ſhot into the thickeſt of thoſe malignants, which made them at a ſtand: our Muſquetiers charging and diſcharging, with much diſcretion and dexte<g ref="char:EOLhyphen"/>rity, the Cavaliers were not ſo haſty as at firſt, but wheeling about gave licence to the leaders of their foot, to bring them on, which they did, in as broad a body as the narrowneſſe of the place would permit; ſo that now they were at it with much violence, ſometime our foot-men, and ſometimes theirs getting ground, their horſe &amp; ours upon all occaſions ſecond<g ref="char:EOLhyphen"/>ing their foot. It was not diſcernable to which ſide the bet<g ref="char:EOLhyphen"/>ter of the battell inclin'd, our forces, cauſe ſmalleſt in num<g ref="char:EOLhyphen"/>ber (though the better experienc'd and more couragious) ap<g ref="char:EOLhyphen"/>pearing to the Enemy to be halfe vanquiſhed; but there was no ſuch matter, though many of them fell, the reſt were not
+<pb n="6" facs="tcp:156226:4"/>diſheartened, rather excited to revenge their fellowes loſſes on thoſe blood-ſuckers; and ſo being now come, as it were, to handi-blowes, the valiant Pike-men at the puſh, ſhew'd their cunning in martiall diſcipline, and undaunted reſolu<g ref="char:EOLhyphen"/>tions, goring their horſes, and killing their foot, while the Muſquetiers inceſſantly powred out their flaming bullets.</p>
+            <p>My Lord of <hi>Darby</hi> ſeeing his men fall thus on every ſide, and that it was impoſſible for his horſe-men (in whom hee repoſed his chiefeſt confidence) to breake through our well ordered ſquadrons, commanded his reſerve to be brought up, which our men performing politiquely, gave ground at leaſt ſome two hundred paces, ſo giving opportunity to our am<g ref="char:EOLhyphen"/>buſh to charge them in the backs. The Cavaliers perceiving them to give ground, ſwore many luſty oaths, that the Round<g ref="char:EOLhyphen"/>heads fled, and ſo preſt on in great multitudes upon them when the two peeces of Cannon, which, as wee related, was planted behind the quick-ſet hedge, were diſcharged into the very thickeſt of them, with the ſudden noyſe, and more ſud<g ref="char:EOLhyphen"/>den ſhot, amazing and overthrowing them by heaps, ſo that they had now no mind to purſue our men, who having now their purpoſe, and ſeeing them in that confuſion at that un<g ref="char:EOLhyphen"/>expected ſalute, valiantly came in again upon them with joy<g ref="char:EOLhyphen"/>full outcryes, encouraging one another to aſſur'd victory. The Earle of <hi>Darby</hi> ſeeing this diſaſter, wiſh'd himſelfe further off, but it was in vaine; and therefore to make the beſt of that bad matter, he heartened on his Cavaliers, telling them, our forces now were at the laſt caſt, and that if they once more did charge them but home, they would quickly be in rout.</p>
+            <p>The Cavaliers knowing it was but in vaine to turne their backs, deſperately fell on againe, and were as valiantly re<g ref="char:EOLhyphen"/>ceiv'd, our men ſtanding cloſe, were not to be driven from their ſtations by all the fury of thoſe divels, but drive backe, force by force, oppoſing man to man, and horſe to horſe, our Cannon by this time being charg'd, through the hedge play'd upon their flanks, ſo that the foot-men of <hi>Cheſhire</hi> and <hi>North-Wales</hi>
+               <pb n="7" facs="tcp:156226:4"/>began to thinke of flight, when behold with a ſudden and fearefull outcry thoſe two hundred Muſquetiers appea<g ref="char:EOLhyphen"/>red in the lane at their backs, diſcharging their peeces with good aime, and then falling in with the butt end of their muſ<g ref="char:EOLhyphen"/>quets and ſwords, they made a bloody maſacre among thoſe malignants, who now would have fled, if they had knowne which way, eſteeming thoſe forces that had ſo on the ſud<g ref="char:EOLhyphen"/>den, charged them on the rere to be double their numbers: many of them therefore threw away their Armes, and ſtriv'd to leap the hedge on one ſide of the way; which being low, was propitious to their purpoſe; ſome eſcaping that way, many others cry'd out for quarter, and yeelded themſelves: the Earle of <hi>Darby</hi> with his Cavaliers being in the Van, and hearing this ſtrange hurliburly in his rere, turned faces about, beholding the ſudden deſtruction of his men, which hee was no way able to remedy, was ready to run mad for anger, and ſo with his Cavaliers betook themſelves to open flight, ſome of them leaping the hedge with their horſes, and the reſt with the Earle, taking downe the lane, and running over their owne foot as well as our muſquetiers, made backe to <hi>Brumicham,</hi> our men to the very twnes end, and in the towne doing execution on thm; the poore towneſ-men re<g ref="char:EOLhyphen"/>joycing to ſee thoſe villaines fall, that had ſo lately uſed them with all hoſtility. There fell in the fight and in the flight, ſix hundred men and upwards, and were full as many taken priſoners. Of our ſide there was loſt ſome ſeven ſcore per<g ref="char:EOLhyphen"/>ſons, our men giving thanks to God the giver of all victo<g ref="char:EOLhyphen"/>ries for that conqueſt ſtayd at <hi>Brumicham</hi> that night and the next day, to ſee if the Earle would rally his forces, and againe give them battaile, but he had enough of that afternoones in<g ref="char:EOLhyphen"/>tertainment, and had no minde to any more ſuch welcomes; and therefore as faſt as his horſe would carry him, hee made away to <hi>Shrewesbury,</hi> ſcarce thinking himſelfe in ſafety, till he was within the walls, ſuch an impreſſion of feare had that conflict put into him, from thence, as is reported, hee is ſtolne down, aſhamed to be ſeen at <hi>Weſtcheſter,</hi> to his Manor
+<pb n="8" facs="tcp:156226:5"/>of <hi>Lathum</hi> in <hi>Lancaſhire,</hi> to reinforce his beaten Regiments: for our parts, with our priſoners, and ſome Enſignes that were tooke from the Enemy, we are retired to our houſes, re<g ref="char:EOLhyphen"/>ſolving on all occaſions, to venter our lives for the Honou<g ref="char:EOLhyphen"/>rable, the high Court of Parliament, which Heaven preſerve in ſafety.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
